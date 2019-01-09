@@ -23,6 +23,7 @@ Pkg.add("Mosek")
 Pkg.add("CPLEX")
 Pkg.add("SCS")
 Pkg.add("Convex")
+Pkg.add("Gurobi")
 ```
 
 
