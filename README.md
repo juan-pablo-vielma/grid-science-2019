@@ -6,7 +6,7 @@ This site contains materials for my lecture at the [Los Alamos National Laborato
 ## Installation Instructions for Julia v1.0
 
 You should use the latest version of Julia v1.0. Binaries of Julia for all platforms are available [here](http://julialang.org/downloads/).
-You will also need to get an academic license for [Mosek](https://www.mosek.com) using this [form](https://license.mosek.com/academic/) amd for [CPLEX](https://www.ibm.com/analytics/data-science/prescriptive-analytics/cplex-optimizer).
+You will also need to get an academic license for [Mosek](https://www.mosek.com) using this [form](https://license.mosek.com/academic/) and get an academic version of [CPLEX](https://www.ibm.com/analytics/data-science/prescriptive-analytics/cplex-optimizer).
 
 
 You can install all the required packages by running:
